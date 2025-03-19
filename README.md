@@ -81,6 +81,6 @@ Feel free to fork the repository, create a new branch, and submit a pull request
 
 ## 📞 Contact
 For any inquiries or issues, reach out via:
-- Email: your-email@example.com
+- Email: himanshu2022kumar02@gmail.com
 - GitHub Issues: [Create an Issue](https://github.com/SuperHim0/Grocery_site/issues)
 
